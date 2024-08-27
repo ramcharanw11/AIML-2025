@@ -13,6 +13,6 @@
 
 <a href="https://github.com/ramcharanw11/AIML-2025/blob/main/AIML_A1.pdf">LAB 01</a>
 
-<a href="">LAB 02</a>
+<a href="https://github.com/ramcharanw11/AIML-2025/blob/main/AIML_A2.pdf">LAB 02</a>
 
 <a href="">LAB 03</a>
